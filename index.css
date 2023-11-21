@@ -1,0 +1,11 @@
+.div{
+    position: relative;
+}
+
+.letter{
+    position: absolute;
+    left: 50%;
+    transform-origin: 0% 0%;
+    padding-top: 50px;
+    font-family: 'Roboto Mono', monospace;
+}
